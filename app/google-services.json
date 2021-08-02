@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749042945226",
+    "project_id": "fcm-firebase-push-notifi-86a80",
+    "storage_bucket": "fcm-firebase-push-notifi-86a80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749042945226:android:c083b4c756af17ac2b3833",
+        "android_client_info": {
+          "package_name": "com.peerbitskuldeep.fcmfirebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749042945226-0a16gfu0q8ntlfkpbp4db3fueajnspio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq1Z-7cbZJl3oOD1ELulgEGnu3ZKOKBlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749042945226-0a16gfu0q8ntlfkpbp4db3fueajnspio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

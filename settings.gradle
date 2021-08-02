@@ -1,0 +1,2 @@
+rootProject.name = "FCMFirebase Push Notification"
+include ':app'
